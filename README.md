@@ -45,7 +45,7 @@ Ensure the following environment variables are set:
    DB_NAME=your_db_name   
    SCHEMA_NAME=your_schema_name`
 4. **ReadCsv:**
-   put your csv file in that folder
+   Create ReadCsv and put your csv file in that folder
 5. **Run the script :**
 
    python CsvToPsql.py
